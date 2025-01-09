@@ -1,6 +1,7 @@
 """Example of class definition for CS03B Discussion 1."""
 
 from dataclasses import dataclass, field
+import random
 
 @dataclass
 class Books(object):
@@ -13,7 +14,12 @@ class Books(object):
         title: string title of the book
         pages: integer number of pages in the book
     """
-    ID: str = field(default = "0000")
+    @staticmethod
+    def _generate_ID() -> str:
+        """Generate an ID for instantiating a book."""
+        return(str(random.randint(1000000000, 9999999999)))
+
+    ID: str = field(default_factory = _generate_ID)
     title: str = field(default = "Unknown")
     pages: int = field(default = 0)
 
@@ -22,7 +28,7 @@ class Books(object):
 
     def __post_init__(self):
         """Check that ID is unique on instantiation."""
-        if self.ID in Books._unique_IDs and self.ID != "0000":
+        if self.ID in Books._unique_IDs:
             raise ValueError(f"ERROR: ID '{self.ID}' already exists.")
         else:
             Books._unique_IDs.add(self.ID)
