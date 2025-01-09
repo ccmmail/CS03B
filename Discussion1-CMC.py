@@ -10,7 +10,7 @@ class Books(object):
     Getters raise an assertion error if argument is of incorrect type
 
     Args:
-        ID: string ID. ValueException error if ID is not unique
+        ID: string ID. Default random 10-digit numeric string. ValueException error if ID is not unique
         title: string title of the book
         pages: integer number of pages in the book
     """
