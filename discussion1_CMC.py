@@ -7,11 +7,12 @@ import random
 class Books(object):
     """Represent book object with ID, title, and number of pages.
 
-    Setters raise an assertion error if argument is of incorrect type
+    Setters raise an assertion error if argument is of incorrect type or
+    if ID is not unique.
 
     Args:
         ID: string ID. Default random 10-digit numeric string.
-            Setter raises ValueException error if ID is not unique.
+            ValueException error upon init if ID is not unique.
         title: string title of the book.
         pages: integer number of pages in the book.
     """
