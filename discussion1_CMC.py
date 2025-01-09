@@ -33,7 +33,7 @@ class Books(object):
         else:
             Books._unique_IDs.add(self.ID)
 
-    def __str__(self):
+    def __str__(self) -> str:
         """Return a string representation of self"""
         return f"{self.title} ({self.ID}), {self.pages} pages."
 
@@ -46,7 +46,7 @@ class Books(object):
     def get_pages(self) -> int:
         return self.pages
 
-    def set_ID(self, ID:str):
+    def set_ID(self, ID:str) -> None:
         try:
             assert type(ID) == str
         except AssertionError:
@@ -57,13 +57,11 @@ class Books(object):
             except AssertionError:
                 print("ERROR: ID must be unique.")
             else:
-            #   if ID in self._unique_IDs:
-            #        self._unique_IDs.remove(self.ID)
                 Books._unique_IDs.remove(self.ID)
                 self.ID = ID
                 Books._unique_IDs.add(ID)
 
-    def set_title(self, title:str):
+    def set_title(self, title:str) -> None:
         try:
             assert type(title) == str
         except AssertionError:
@@ -71,11 +69,10 @@ class Books(object):
         else:
             self.title = title
 
-    def set_pages(self, pages:int):
+    def set_pages(self, pages:int) -> None:
         try:
             assert type(pages) == int
         except AssertionError:
             print("ERROR: Pages must be an integer.")
         else:
             self.pages = pages
-
