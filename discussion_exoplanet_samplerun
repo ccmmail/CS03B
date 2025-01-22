@@ -1,0 +1,91 @@
+*** samplerun ***
+
+Printing all nodes:
+id: 1-HD-191939-e
+Orbital Radius: 0.397
+Orbital Period: 101.5
+Discovery Date:2022
+Mass: 0.33981
+
+id: 2-TOI-4504 d
+Orbital Radius: 1.425
+Orbital Period: 323.1
+Discovery Date:2024
+Mass: 1.4166
+
+id: 3-KMT-2024-BLG-1044L b
+Orbital Radius: 218.5
+Orbital Period: 333
+Discovery Date:2024
+Mass: 1.0
+
+id: 4-TOI-5688 A b
+Orbital Radius: 0.967
+Orbital Period: 395.2
+Discovery Date:2020
+Mass: 0.39
+
+id: 5-TOI-6383
+Orbital Radius: 0.529
+Orbital Period: 122.8
+Discovery Date:2018
+Mass: 0.85
+
+*** Test removing (pop) last added node
+
+Printing all nodes:
+id: 1-HD-191939-e
+Orbital Radius: 0.397
+Orbital Period: 101.5
+Discovery Date:2022
+Mass: 0.33981
+
+id: 2-TOI-4504 d
+Orbital Radius: 1.425
+Orbital Period: 323.1
+Discovery Date:2024
+Mass: 1.4166
+
+id: 3-KMT-2024-BLG-1044L b
+Orbital Radius: 218.5
+Orbital Period: 333
+Discovery Date:2024
+Mass: 1.0
+
+id: 4-TOI-5688 A b
+Orbital Radius: 0.967
+Orbital Period: 395.2
+Discovery Date:2020
+Mass: 0.39
+
+*** Test finding and then deleting exoplanet with ID '2-TOI-4504 d'
+Found a match!
+id: 2-TOI-4504 d
+Orbital Radius: 1.425
+Orbital Period: 323.1
+Discovery Date:2024
+Mass: 1.4166
+
+Deleted 2-TOI-4504 d
+
+Printing all nodes:
+id: 1-HD-191939-e
+Orbital Radius: 0.397
+Orbital Period: 101.5
+Discovery Date:2022
+Mass: 0.33981
+
+id: 3-KMT-2024-BLG-1044L b
+Orbital Radius: 218.5
+Orbital Period: 333
+Discovery Date:2024
+Mass: 1.0
+
+id: 4-TOI-5688 A b
+Orbital Radius: 0.967
+Orbital Period: 395.2
+Discovery Date:2020
+Mass: 0.39
+
+
+Process finished with exit code 0
