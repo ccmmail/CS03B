@@ -1,4 +1,5 @@
 from pokemon import Pokemon
+from random import random
 
 class ElectricType(Pokemon):
 
@@ -34,6 +35,20 @@ class ElectricType(Pokemon):
             print(other.name, "is paralyzed!")
         # reset damage to original
         self.damage = Pokemon.damage
+
+
+# placeholder classes for pokemons that Ice type is strong or weak against
+class FlyingType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class GrassType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class WaterType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
 
 
         

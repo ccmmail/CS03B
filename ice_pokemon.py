@@ -18,7 +18,7 @@ class IceType(Pokemon):
     def __str__(self):
         """Facilitate printing of an overview the Pokemon."""
         formatted_string = (f"Pokemon name: {self.name}\t Trainer: {self.trainer}\n"
-                      f"HP: {self.hp}\n"
+                      f"Level: {self.level}\t HP: {self.hp}\n"
                       f"Basic attack: {self.basic_attack}\t Probability to paralyze: {self.prob}")
         return formatted_string
 
@@ -26,7 +26,7 @@ class IceType(Pokemon):
         """Inflict damage and paralysis on other Pokemon based on modifiers."""
         if isinstance(other, (FlyingType, GrassType, DragonType)):
             self.damage = Pokemon.damage * 2  # Increase damage against pokemon types that Ice types are strong against.
-        elif isinstance(other, (FireType, Water_Type, IceType)):
+        elif isinstance(other, (FireType, WaterType, IceType)):
             self.damage = Pokemon.damage / 2  # Decrease damage against pokemon types that Ice types are weak against.
         else:
             self.damage = Pokemon.damage  # Else normal damage.
@@ -37,28 +37,28 @@ class IceType(Pokemon):
             print(f"{other.name} is paralyzed!")
 
 
-# placeholder classes for pokemons that are strong or weak against
-# class FlyingType(Pokemon):
-#     """Create placeholder types of pokemon."""
-#     pass
-#
-# class GrassType(Pokemon):
-#     """Create placeholder types of pokemon."""
-#     pass
-#
-# class DragonType(Pokemon):
-#     """Create placeholder types of pokemon."""
-#     pass
-#
-# class FireType(Pokemon):
-#     """Create placeholder types of pokemon."""
-#     pass
-#
-# class Water_Type(Pokemon):
-#     """Create placeholder types of pokemon."""
-#     pass
-#
-#
+# placeholder classes for pokemons that Ice type is strong or weak against
+class FlyingType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class GrassType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class DragonType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class FireType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+class WaterType(Pokemon):
+    """Create placeholder types of pokemon."""
+    pass
+
+
 # # main program to test cases
 # def main():
 #     """Test behaviour of Pokemon classes."""
