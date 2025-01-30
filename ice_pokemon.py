@@ -38,43 +38,43 @@ class IceType(Pokemon):
 
 
 # placeholder classes for pokemons that are strong or weak against
-class FlyingType(Pokemon):
-    """Create placeholder types of pokemon."""
-    pass
-
-class GrassType(Pokemon):
-    """Create placeholder types of pokemon."""
-    pass
-
-class DragonType(Pokemon):
-    """Create placeholder types of pokemon."""
-    pass
-
-class FireType(Pokemon):
-    """Create placeholder types of pokemon."""
-    pass
-
-class Water_Type(Pokemon):
-    """Create placeholder types of pokemon."""
-    pass
-
-
-# main program to test cases
-def main():
-    """Test behaviour of Pokemon classes."""
-    glaceon = IceType("Glaceon", "Ash", 62)
-    print(glaceon, "\n")
-
-    mew = Pokemon("Mew", "Lance")
-    print("***Glaceon attacks Mew, a basic type")
-    glaceon.attack(mew)
-    print(f"Mew's hp: {mew.hp}\n")
-
-    flareon = FireType("Flareon", "Lance")
-    print("***Glaceon attacks Flareon, a type weak against")
-    glaceon.attack(flareon)
-    print(f"Flareon's hp: {flareon.hp}\n")
-
-
-if __name__ == "__main__":
-    main()
+# class FlyingType(Pokemon):
+#     """Create placeholder types of pokemon."""
+#     pass
+#
+# class GrassType(Pokemon):
+#     """Create placeholder types of pokemon."""
+#     pass
+#
+# class DragonType(Pokemon):
+#     """Create placeholder types of pokemon."""
+#     pass
+#
+# class FireType(Pokemon):
+#     """Create placeholder types of pokemon."""
+#     pass
+#
+# class Water_Type(Pokemon):
+#     """Create placeholder types of pokemon."""
+#     pass
+#
+#
+# # main program to test cases
+# def main():
+#     """Test behaviour of Pokemon classes."""
+#     glaceon = IceType("Glaceon", "Ash", 62)
+#     print(glaceon, "\n")
+#
+#     mew = Pokemon("Mew", "Lance")
+#     print("***Glaceon attacks Mew, a basic type")
+#     glaceon.attack(mew)
+#     print(f"Mew's hp: {mew.hp}\n")
+#
+#     flareon = FireType("Flareon", "Lance")
+#     print("***Glaceon attacks Flareon, a type weak against")
+#     glaceon.attack(flareon)
+#     print(f"Flareon's hp: {flareon.hp}\n")
+#
+#
+# if __name__ == "__main__":
+#     main()

@@ -1,3 +1,4 @@
+from pokemon import Pokemon
 
 class ElectricType(Pokemon):
 
