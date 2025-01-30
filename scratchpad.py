@@ -1,24 +1,32 @@
-a = ["apple", "banana", "cherry"]
+class Animal:
+    def __init__(self, Animal):
+        print(Animal, 'is an animal.');
 
-print(a.index("dog"))
+
+class Mammal(Animal):
+    def __init__(self, mammalName):
+        print(mammalName, 'is a warm-blooded animal.')
+        super().__init__(mammalName)
 
 
-# import typing
-# import numpy as np
-#
-#
-#
-# num_courses:int = int(input("how many course?"))
-# course_roster_numpy = np.empty((num_courses), dtype=np.ndarray)
-#
-# print(course_roster_numpy)
-#
-# for k in range(num_courses):
-#     num_students:int = int(input(f"how many students in course {k}?"))
-#     course_roster_numpy[k] = np.array(num_students * ["(undefined)"], dtype=object)
-#
-# for row in range(course_roster_numpy.shape[0]):
-#     for col in range(course_roster_numpy[row].size):
-#         print(f"course {row}, student {col} is {course_roster_numpy[row, col]}")
-#
-# print(course_roster_numpy)
+class NonWingedMammal(Mammal):
+    def __init__(self, NonWingedMammal):
+        print(NonWingedMammal, "can't fly.")
+        super().__init__(NonWingedMammal)
+
+
+class NonMarineMammal(Mammal):
+    def __init__(self, NonMarineMammal):
+        print(NonMarineMammal, "can't swim.")
+        super().__init__(NonMarineMammal)
+
+
+class Dog(NonMarineMammal, NonWingedMammal):
+    def __init__(self):
+        print('Dog has 4 legs.');
+        super().__init__('Dog')
+
+
+d = Dog()
+print('')
+bat = NonMarineMammal('Bat')
