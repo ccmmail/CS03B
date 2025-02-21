@@ -1,0 +1,805 @@
+Geographic Area,Bi-Annual Delta,Annual Delta
+"New York city, New York",-31212,-305465
+"Los Angeles city, California",-4152,-40537
+"Chicago city, Illinois",-5501,-45175
+"Houston city, Texas",-2765,-11777
+"Phoenix city, Arizona",3606,13224
+"Philadelphia city, Pennsylvania",-2792,-24754
+"San Antonio city, Texas",3957,13626
+"San Diego city, California",-528,-3783
+"Dallas city, Texas",-1208,-14777
+"San Jose city, California",-3637,-27419
+"Austin city, Texas",3572,1056
+"Jacksonville city, Florida",886,4151
+"Fort Worth city, Texas",4215,12916
+"Columbus city, Ohio",188,668
+"Indianapolis city (balance), Indiana",-370,-5343
+"Charlotte city, North Carolina",2206,2962
+"San Francisco city, California",-3951,-54813
+"Seattle city, Washington",3015,-4253
+"Denver city, Colorado",2108,-6167
+"Oklahoma City city, Oklahoma",1373,4965
+"Nashville-Davidson metropolitan government (balance), Tennessee",-256,-10397
+"El Paso city, Texas",11,-183
+"Washington city, District of Columbia",548,-20043
+"Boston city, Massachusetts",-1944,-19496
+"Las Vegas city, Nevada",1467,3498
+"Portland city, Oregon",299,-11226
+"Detroit city, Michigan",-1438,-5712
+"Louisville/Jefferson County metro government (balance), Kentucky",-652,-3443
+"Memphis city, Tennessee",-881,-3199
+"Baltimore city, Maryland",-2576,-6634
+"Milwaukee city, Wisconsin",-934,-6971
+"Albuquerque city, New Mexico",85,-2049
+"Fresno city, California",-2,2351
+"Tucson city, Arizona",510,1383
+"Sacramento city, California",662,1625
+"Mesa city, Arizona",1360,3615
+"Kansas City city, Missouri",-37,462
+"Atlanta city, Georgia",984,-3125
+"Omaha city, Nebraska",541,-3868
+"Colorado Springs city, Colorado",953,3743
+"Raleigh city, North Carolina",-167,1699
+"Virginia Beach city, Virginia",-97,-1701
+"Long Beach city, California",-1543,-8697
+"Miami city, Florida",-376,-1999
+"Oakland city, California",-8,-5518
+"Minneapolis city, Minnesota",611,-3678
+"Tulsa city, Oklahoma",171,-1228
+"Bakersfield city, California",494,4214
+"Wichita city, Kansas",47,-1418
+"Arlington city, Texas",-233,-1199
+"Aurora city, Colorado",339,2767
+"Tampa city, Florida",1211,3070
+"New Orleans city, Louisiana",-715,-6311
+"Cleveland city, Ohio",-1059,-4041
+"Anaheim city, California",74,-1149
+"Urban Honolulu CDP, Hawaii",-1143,-4290
+"Henderson city, Nevada",1534,3123
+"Stockton city, California",-14,1375
+"Lexington-Fayette urban county, Kentucky",-167,-610
+"Corpus Christi city, Texas",-77,-79
+"Riverside city, California",308,2606
+"Santa Ana city, California",-650,-447
+"Orlando city, Florida",-71,1551
+"Irvine city, California",1076,2642
+"Cincinnati city, Ohio",-129,-1178
+"Newark city, New Jersey",-526,-3130
+"St. Paul city, Minnesota",-506,-3749
+"Pittsburgh city, Pennsylvania",-383,-2346
+"Greensboro city, North Carolina",-91,455
+"St. Louis city, Missouri",-1050,-7218
+"Lincoln city, Nebraska",269,1274
+"Plano city, Texas",768,1585
+"Anchorage municipality, Alaska",-610,-2516
+"Durham city, North Carolina",853,1127
+"Jersey City city, New Jersey",-485,-8000
+"Chandler city, Arizona",1226,1902
+"Chula Vista city, California",441,754
+"Buffalo city, New York",-394,-1101
+"North Las Vegas city, Nevada",1538,9917
+"Gilbert town, Arizona",904,3930
+"Madison city, Wisconsin",432,350
+"Reno city, Nevada",680,4735
+"Toledo city, Ohio",-685,-1533
+"Fort Wayne city, Indiana",317,1805
+"Lubbock city, Texas",702,3111
+"St. Petersburg city, Florida",381,-457
+"Laredo city, Texas",155,817
+"Irving city, Texas",80,-2675
+"Chesapeake city, Virginia",257,1590
+"Winston-Salem city, North Carolina",-94,971
+"Glendale city, Arizona",452,833
+"Scottsdale city, Arizona",445,820
+"Garland city, Texas",-654,-3443
+"Boise City city, Idaho",159,1617
+"Norfolk city, Virginia",-414,-2502
+"Spokane city, Washington",19,221
+"Fremont city, California",-411,-4159
+"Richmond city, Virginia",60,-66
+"Santa Clarita city, California",-726,-3894
+"San Bernardino city, California",-114,419
+"Baton Rouge city, Louisiana",-648,-2295
+"Hialeah city, Florida",-864,-1663
+"Tacoma city, Washington",358,-178
+"Modesto city, California",-12,312
+"Port St. Lucie city, Florida",1839,10771
+"Huntsville city, Alabama",671,1920
+"Des Moines city, Iowa",-438,-1668
+"Moreno Valley city, California",348,2387
+"Fontana city, California",44,1951
+"Frisco city, Texas",2111,7933
+"Rochester city, New York",-290,-337
+"Yonkers city, New York",-267,-1440
+"Fayetteville city, North Carolina",-295,202
+"Worcester city, Massachusetts",-359,-324
+"Columbus city, Georgia",38,-1343
+"Cape Coral city, Florida",1311,8220
+"McKinney city, Texas",2065,5568
+"Little Rock city, Arkansas",-30,-486
+"Oxnard city, California",57,-363
+"Amarillo city, Texas",-7,337
+"Augusta-Richmond County consolidated government (balance), Georgia",-273,-654
+"Salt Lake City city, Utah",841,891
+"Montgomery city, Alabama",-561,-1341
+"Birmingham city, Alabama",-630,-2558
+"Grand Rapids city, Michigan",-314,-757
+"Grand Prairie city, Texas",59,1016
+"Overland Park city, Kansas",292,-481
+"Tallahassee city, Florida",274,760
+"Huntington Beach city, California",-433,-2055
+"Sioux Falls city, South Dakota",550,3295
+"Peoria city, Arizona",933,2932
+"Knoxville city, Tennessee",583,2054
+"Glendale city, California",-633,-3842
+"Vancouver city, Washington",261,1098
+"Providence city, Rhode Island",-183,-409
+"Akron city, Ohio",-370,-817
+"Brownsville city, Texas",151,1069
+"Mobile city, Alabama",-422,-1459
+"Newport News city, Virginia",-331,-1329
+"Tempe city, Arizona",1058,3295
+"Shreveport city, Louisiana",-655,-3317
+"Chattanooga city, Tennessee",390,489
+"Fort Lauderdale city, Florida",-28,-1121
+"Aurora city, Illinois",-333,-1089
+"Elk Grove city, California",487,1365
+"Ontario city, California",427,2018
+"Salem city, Oregon",374,1917
+"Cary town, North Carolina",635,1598
+"Santa Rosa city, California",-273,-944
+"Rancho Cucamonga city, California",-56,570
+"Eugene city, Oregon",49,294
+"Oceanside city, California",-224,-1146
+"Clarksville city, Tennessee",624,3699
+"Garden Grove city, California",-315,-1341
+"Lancaster city, California",-443,-2712
+"Springfield city, Missouri",-141,98
+"Pembroke Pines city, Florida",-182,-1590
+"Fort Collins city, Colorado",60,-494
+"Palmdale city, California",-634,-3518
+"Salinas city, California",-290,-606
+"Hayward city, California",-366,-3442
+"Corona city, California",305,2173
+"Paterson city, New Jersey",-255,-1625
+"Murfreesboro city, Tennessee",905,4177
+"Macon-Bibb County, Georgia",-242,-342
+"Lakewood city, Colorado",199,462
+"Killeen city, Texas",474,3217
+"Springfield city, Massachusetts",-357,-767
+"Alexandria city, Virginia",-370,-4391
+"Kansas City city, Kansas",-361,-1696
+"Sunnyvale city, California",-431,-3602
+"Hollywood city, Florida",-356,-574
+"Roseville city, California",618,3466
+"Charleston city, South Carolina",381,709
+"Escondido city, California",-11,-595
+"Joliet city, Illinois",-153,173
+"Jackson city, Mississippi",-797,-3085
+"Bellevue city, Washington",-206,-2399
+"Surprise city, Arizona",1151,4779
+"Naperville city, Illinois",-148,-175
+"Pasadena city, Texas",-608,-2721
+"Pomona city, California",-426,-2790
+"Bridgeport city, Connecticut",-421,62
+"Denton city, Texas",1179,5844
+"Rockford city, Illinois",-290,-1008
+"Mesquite city, Texas",-628,-1989
+"Savannah city, Georgia",-394,-613
+"Syracuse city, New York",-330,-930
+"McAllen city, Texas",105,1573
+"Torrance city, California",-554,-3169
+"Olathe city, Kansas",162,1614
+"Visalia city, California",267,1150
+"Thornton city, Colorado",231,444
+"Fullerton city, California",-194,-1299
+"Gainesville city, Florida",94,469
+"Waco city, Texas",341,1305
+"West Valley City city, Utah",-362,-1099
+"Warren city, Michigan",-278,-999
+"Hampton city, Virginia",-17,615
+"Dayton city, Ohio",-250,-489
+"Columbia city, South Carolina",14,227
+"Orange city, California",-312,-1416
+"Cedar Rapids city, Iowa",-83,-1114
+"Stamford city, Connecticut",240,624
+"Victorville city, California",192,1208
+"Pasadena city, California",-483,-2464
+"Elizabeth city, New Jersey",-468,-1441
+"New Haven city, Connecticut",42,1115
+"Miramar city, Florida",-303,704
+"Kent city, Washington",-122,-1793
+"Sterling Heights city, Michigan",-197,-882
+"Carrollton city, Texas",61,-158
+"Coral Springs city, Florida",-339,-1205
+"Midland city, Texas",272,-1395
+"Norman city, Oklahoma",97,776
+"Athens-Clarke County unified government (balance), Georgia",-179,217
+"Santa Clara city, California",-26,-275
+"Columbia city, Missouri",161,1001
+"Fargo city, North Dakota",23,895
+"Pearland city, Texas",142,-96
+"Simi Valley city, California",-121,-391
+"Meridian city, Idaho",1630,6234
+"Topeka city, Kansas",-246,-306
+"Allentown city, Pennsylvania",-121,-27
+"Thousand Oaks city, California",-274,-898
+"Abilene city, Texas",157,116
+"Vallejo city, California",-196,-953
+"Concord city, California",-213,-1102
+"Round Rock city, Texas",979,3378
+"Arvada city, Colorado",-61,-1042
+"Clovis city, California",420,2315
+"Palm Bay city, Florida",307,2761
+"Independence city, Missouri",-101,-839
+"Lafayette city, Louisiana",-22,-225
+"Ann Arbor city, Michigan",-299,-995
+"Rochester city, Minnesota",152,69
+"Hartford city, Connecticut",-262,-381
+"College Station city, Texas",261,1578
+"Fairfield city, California",34,-122
+"Wilmington city, North Carolina",191,1497
+"North Charleston city, South Carolina",658,1701
+"Billings city, Montana",-51,419
+"West Palm Beach city, Florida",28,107
+"Berkeley city, California",-230,-2318
+"Cambridge city, Massachusetts",-80,-609
+"Clearwater city, Florida",-181,-372
+"West Jordan city, Utah",-4,-645
+"Evansville city, Indiana",-40,-772
+"Richardson city, Texas",-181,-1410
+"Broken Arrow city, Oklahoma",294,2306
+"Richmond city, California",-49,-599
+"League City city, Texas",260,909
+"Manchester city, New Hampshire",-201,108
+"Lakeland city, Florida",677,2867
+"Carlsbad city, California",101,229
+"Antioch city, California",-108,-458
+"Westminster city, Colorado",-71,-1743
+"High Point city, North Carolina",5,194
+"Provo city, Utah",-141,36
+"Lowell city, Massachusetts",-177,-1270
+"Elgin city, Illinois",-188,-710
+"Waterbury city, Connecticut",-287,-348
+"Springfield city, Illinois",-216,-851
+"Gresham city, Oregon",130,-1534
+"Murrieta city, California",301,1640
+"Lewisville city, Texas",660,608
+"Las Cruces city, New Mexico",231,1176
+"Lansing city, Michigan",-158,-112
+"Beaumont city, Texas",-347,-1683
+"Odessa city, Texas",484,-2369
+"Pueblo city, Colorado",194,249
+"Peoria city, Illinois",-381,-1126
+"Downey city, California",-440,-2473
+"Pompano Beach city, Florida",-151,-618
+"Miami Gardens city, Florida",-494,-218
+"Temecula city, California",-44,760
+"Everett city, Washington",207,-118
+"Costa Mesa city, California",-192,-973
+"San Buenaventura (Ventura) city, California",-187,-488
+"Sparks city, Nevada",349,675
+"Santa Maria city, California",1,-193
+"Sugar Land city, Texas",-271,-1402
+"Greeley city, Colorado",453,-65
+"South Fulton city, Georgia",99,952
+"Dearborn city, Michigan",-253,-1237
+"Concord city, North Carolina",583,1928
+"Tyler city, Texas",241,1216
+"Sandy Springs city, Georgia",38,-992
+"West Covina city, California",-427,-2328
+"Green Bay city, Wisconsin",-186,-99
+"Centennial city, Colorado",-258,-1129
+"Jurupa Valley city, California",199,1635
+"El Monte city, California",-388,-2259
+"Allen city, Texas",842,1246
+"Hillsboro city, Oregon",474,-289
+"Menifee city, California",573,3174
+"Nampa city, Idaho",872,5062
+"Spokane Valley city, Washington",461,2127
+"Rio Rancho city, New Mexico",280,1577
+"Brockton city, Massachusetts",-73,-133
+"El Cajon city, California",-110,-744
+"Burbank city, California",-243,-1919
+"Inglewood city, California",-427,-2353
+"Renton city, Washington",-203,-1584
+"Davie town, Florida",-166,-671
+"Rialto city, California",-17,195
+"Boulder city, Colorado",-152,-1087
+"South Bend city, Indiana",-148,-174
+"Vacaville city, California",-3,406
+"Wichita Falls city, Texas",142,348
+"Lee's Summit city, Missouri",440,1181
+"Edinburg city, Texas",361,2444
+"Chico city, California",-672,161
+"San Mateo city, California",-366,-3108
+"Bend city, Oregon",407,2526
+"Goodyear city, Arizona",1531,5199
+"Buckeye city, Arizona",2160,8001
+"Daly City city, California",-369,-3328
+"Fishers city, Indiana",398,1720
+"Quincy city, Massachusetts",-79,-487
+"Davenport city, Iowa",-144,-575
+"Hesperia city, California",162,771
+"New Bedford city, Massachusetts",-74,-29
+"Lynn city, Massachusetts",-120,-275
+"Carmel city, Indiana",115,885
+"Longmont city, Colorado",240,399
+"Tuscaloosa city, Alabama",254,658
+"Norwalk city, California",-378,-2159
+"St. George city, Utah",643,4031
+"San Angelo city, Texas",87,-426
+"Kenosha city, Wisconsin",-149,-447
+"Federal Way city, Washington",-112,-1982
+"Roanoke city, Virginia",-136,-1010
+"New Braunfels city, Texas",1183,7538
+"Vista city, California",24,147
+"Albany city, New York",-212,-516
+"Beaverton city, Oregon",-74,769
+"Orem city, Utah",224,-433
+"Portsmouth city, Virginia",100,-175
+"Yuma city, Arizona",220,1059
+"Yakima city, Washington",17,-312
+"Suffolk city, Virginia",361,1509
+"Sunrise city, Florida",-278,-1014
+"Boca Raton city, Florida",-117,-454
+"Deltona city, Florida",280,1344
+"Tracy city, California",234,1797
+"Edmond city, Oklahoma",242,601
+"Lawrence city, Kansas",24,323
+"Fayetteville city, Arkansas",438,1210
+"Sandy city, Utah",-391,-1989
+"San Marcos city, California",59,-47
+"Reading city, Pennsylvania",-116,-137
+"Livonia city, Michigan",-195,-914
+"Conroe city, Texas",1210,4042
+"Asheville city, North Carolina",-133,-339
+"Erie city, Pennsylvania",-184,-640
+"Fall River city, Massachusetts",-53,-1
+"Palm Coast city, Florida",438,4085
+"O'Fallon city, Missouri",253,2001
+"Compton city, California",-348,-2014
+"Carson city, California",-293,-1539
+"Redding city, California",-166,69
+"Plantation city, Florida",233,1017
+"Chino city, California",378,1608
+"Hoover city, Alabama",36,-98
+"Roswell city, Georgia",97,-459
+"Mission Viejo city, California",-231,-1079
+"Mount Pleasant town, South Carolina",203,1527
+"Bellingham city, Washington",339,719
+"Fort Myers city, Florida",829,5891
+"Kirkland city, Washington",508,-648
+"Norwalk city, Connecticut",-168,219
+"South Gate city, California",-337,-1480
+"Nashua city, New Hampshire",-184,-97
+"Santa Monica city, California",-317,-1606
+"Lawton city, Oklahoma",-20,538
+"Avondale city, Arizona",180,894
+"Trenton city, New Jersey",-195,-205
+"Hemet city, California",-25,606
+"Indio city, California",116,1173
+"Westminster city, California",-183,-711
+"Fort Smith city, Arkansas",-36,435
+"Clifton city, New Jersey",-191,-664
+"Merced city, California",374,2793
+"Bloomington city, Minnesota",-158,-556
+"Champaign city, Illinois",-3,696
+"San Leandro city, California",-337,-2470
+"Greenville city, North Carolina",216,630
+"Waukegan city, Illinois",-203,-544
+"Lawrence city, Massachusetts",-128,-516
+"Santa Barbara city, California",-35,-440
+"Santa Fe city, New Mexico",187,509
+"Springdale city, Arkansas",-51,219
+"Newton city, Massachusetts",-163,-1171
+"Citrus Heights city, California",-107,-509
+"San Ramon city, California",243,278
+"Bryan city, Texas",349,1056
+"Troy city, Michigan",-191,-289
+"Livermore city, California",-127,-1684
+"Ogden city, Utah",-104,72
+"Danbury city, Connecticut",-194,403
+"Duluth city, Minnesota",-44,-229
+"Medford city, Oregon",33,506
+"Deerfield Beach city, Florida",-157,-377
+"Mission city, Texas",2,353
+"Hawthorne city, California",-317,-1847
+"Manteca city, California",270,1844
+"Lake Forest city, California",-65,-263
+"Auburn city, Washington",-208,-1444
+"Sioux City city, Iowa",-77,-37
+"Franklin city, Tennessee",540,1582
+"Temple city, Texas",516,2962
+"Whittier city, California",-338,-1734
+"Melbourne city, Florida",60,691
+"Newport Beach city, California",-78,-541
+"Brooklyn Park city, Minnesota",-277,-1885
+"Westland city, Michigan",-159,-759
+"Kennewick city, Washington",-21,566
+"Farmington Hills city, Michigan",-210,-489
+"Layton city, Utah",208,1324
+"Cicero town, Illinois",-316,-1703
+"Buena Park city, California",-205,-957
+"Warwick city, Rhode Island",-16,51
+"Cranston city, Rhode Island",-102,-267
+"Baytown city, Texas",-203,-1015
+"Largo city, Florida",-117,-174
+"Johns Creek city, Georgia",92,-526
+"Longview city, Texas",-47,49
+"Redwood City city, California",-54,-2537
+"New Rochelle city, New York",563,1028
+"Mountain View city, California",-137,-939
+"Warner Robins city, Georgia",170,952
+"Folsom city, California",439,1749
+"Alhambra city, California",-253,-1537
+"Gastonia city, North Carolina",25,769
+"Lake Charles city, Louisiana",-82,-4255
+"Miami Beach city, Florida",-481,-1674
+"Flint city, Michigan",-180,-573
+"Lakewood city, California",-324,-1792
+"Homestead city, Florida",-274,105
+"Rancho Cordova city, California",124,623
+"South Jordan city, Utah",421,2057
+"Boynton Beach city, Florida",230,-542
+"North Port city, Florida",641,4205
+"Parma city, Ohio",-223,-842
+"Lehi city, Utah",893,2978
+"Bloomington city, Indiana",-111,167
+"Perris city, California",111,938
+"Plymouth city, Minnesota",-90,-1263
+"Somerville city, Massachusetts",-212,-1027
+"Pharr city, Texas",57,-139
+"Frederick city, Maryland",153,1373
+"Kissimmee city, Florida",-84,278
+"Tustin city, California",-119,-593
+"Jonesboro city, Arkansas",263,537
+"Upland city, California",8,156
+"Milpitas city, California",88,-1297
+"Lynchburg city, Virginia",-138,138
+"Pasco city, Washington",277,1015
+"Napa city, California",-225,-233
+"Cedar Park city, Texas",392,655
+"Chino Hills city, California",-29,121
+"Auburn city, Alabama",429,2135
+"Bloomington city, Illinois",-47,57
+"Pleasanton city, California",-220,-1949
+"Evanston city, Illinois",-239,-1279
+"Bellflower city, California",-279,-1611
+"Flower Mound town, Texas",471,913
+"Loveland city, Colorado",-55,572
+"Racine city, Wisconsin",-197,-451
+"Schaumburg village, Illinois",-248,-1361
+"Woodbury city, Minnesota",316,1511
+"Flagstaff city, Arizona",179,29
+"Hammond city, Indiana",-147,-623
+"Wyoming city, Michigan",198,-23
+"Pittsburg city, California",161,-56
+"Alameda city, California",-278,-1971
+"Redmond city, Washington",47,2932
+"Castle Rock town, Colorado",688,2653
+"Apple Valley town, California",16,295
+"Rapid City city, South Dakota",156,1834
+"Rochester Hills city, Michigan",-158,-107
+"Arlington Heights village, Illinois",-218,-1377
+"Doral city, Florida",291,-128
+"Southfield city, Michigan",-212,-469
+"Scranton city, Pennsylvania",-160,-76
+"Bethlehem city, Pennsylvania",-81,-5
+"Georgetown city, Texas",1263,7193
+"Pawtucket city, Rhode Island",-121,-334
+"Broomfield city, Colorado",401,812
+"Appleton city, Wisconsin",-15,-446
+"Missouri City city, Texas",136,470
+"Missoula city, Montana",203,873
+"Iowa City city, Iowa",70,153
+"Daytona Beach city, Florida",157,2599
+"Mansfield city, Texas",124,1590
+"Bismarck city, North Dakota",24,463
+"Rock Hill city, South Carolina",252,-55
+"New Britain city, Connecticut",-155,-221
+"Bolingbrook village, Illinois",-125,-234
+"Bowling Green city, Kentucky",118,887
+"Lauderhill city, Florida",-224,-813
+"Redlands city, California",19,265
+"Kalamazoo city, Michigan",-101,-450
+"Rocklin city, California",230,1174
+"Jacksonville city, North Carolina",-156,-307
+"Lakeville city, Minnesota",521,2637
+"Turlock city, California",-34,71
+"Mount Vernon city, New York",-210,-902
+"Gulfport city, Mississippi",-124,-732
+"Greenville city, South Carolina",266,1196
+"Harlingen city, Texas",1,122
+"Camden city, New Jersey",-25,-203
+"Dublin city, California",170,-638
+"St. Joseph city, Missouri",-163,-691
+"Lake Elsinore city, California",49,1148
+"Tamarac city, Florida",-49,-301
+"Eastvale city, California",174,1352
+"Johnson City city, Tennessee",-12,702
+"Framingham city, Massachusetts",-180,-897
+"Waukesha city, Wisconsin",-40,-109
+"Dothan city, Alabama",-28,21
+"Marysville city, Washington",211,250
+"Rogers city, Arkansas",370,989
+"Blaine city, Minnesota",212,430
+"Noblesville city, Indiana",283,1126
+"Camarillo city, California",47,14
+"Lafayette city, Indiana",-97,26
+"St. Charles city, Missouri",178,258
+"Wilmington city, Delaware",-66,-125
+"Tulare city, California",317,1536
+"Maple Grove city, Minnesota",9,208
+"Baldwin Park city, California",-241,-1453
+"Canton city, Ohio",-163,-358
+"Ankeny city, Iowa",424,1971
+"North Richland Hills city, Texas",342,-101
+"West Des Moines city, Iowa",178,897
+"Redondo Beach city, California",-259,-1480
+"Walnut Creek city, California",-104,-279
+"Decatur city, Illinois",-251,-868
+"Passaic city, New Jersey",-150,-683
+"Yuba City city, California",-149,-416
+"Eau Claire city, Wisconsin",22,128
+"Bayonne city, New Jersey",-9,-2335
+"Gaithersburg city, Maryland",-135,-421
+"Albany city, Georgia",-346,-438
+"East Orange city, New Jersey",-148,-674
+"St. Cloud city, Minnesota",-63,107
+"Union City city, California",-190,-1779
+"Eagan city, Minnesota",-139,-124
+"San Marcos city, Texas",411,879
+"Gary city, Indiana",-129,-528
+"Portland city, Maine",25,-114
+"Jackson city, Tennessee",-42,-55
+"Yorba Linda city, California",-29,-442
+"Madera city, California",207,1421
+"Shawnee city, Kansas",65,106
+"Haverhill city, Massachusetts",-74,-329
+"Weston city, Florida",-166,-616
+"Rockville city, Maryland",256,-218
+"Leander city, Texas",1620,6159
+"Lodi city, California",62,550
+"Schenectady city, New York",-121,111
+"Grand Junction city, Colorado",89,1142
+"Waterloo city, Iowa",-72,-440
+"Idaho Falls city, Idaho",244,1241
+"Pflugerville city, Texas",286,920
+"Davis city, California",-137,140
+"Palo Alto city, California",-238,-1806
+"Sammamish city, Washington",-66,-904
+"Oshkosh city, Wisconsin",-84,-86
+"Delray Beach city, Florida",-72,-266
+"Novi city, Michigan",-66,374
+"Ames city, Iowa",44,425
+"Skokie village, Illinois",-93,-1260
+"Queen Creek town, Arizona",1352,5404
+"Palatine village, Illinois",-183,-1267
+"Alpharetta city, Georgia",116,159
+"Janesville city, Wisconsin",12,299
+"Union City city, New Jersey",-425,-2449
+"Lynwood city, California",-242,-1392
+"Lorain city, Ohio",-16,106
+"Victoria city, Texas",-53,-213
+"Kenner city, Louisiana",-151,-959
+"Muncie city, Indiana",-141,51
+"Conway city, Arkansas",127,1338
+"Malden city, Massachusetts",-239,-1040
+"Cheyenne city, Wyoming",65,-110
+"Greenwood city, Indiana",132,883
+"Brentwood city, California",144,371
+"Utica city, New York",-161,-601
+"Commerce City city, Colorado",316,1494
+"South San Francisco city, California",9,-1877
+"Laguna Niguel city, California",-160,-120
+"North Little Rock city, Arkansas",32,-503
+"Millcreek city, Utah",-262,473
+"Ocala city, Florida",145,496
+"Waltham city, Massachusetts",-177,-802
+"Burnsville city, Minnesota",178,-587
+"San Clemente city, California",-63,-450
+"Bellevue city, Nebraska",93,-564
+"Rowlett city, Texas",200,928
+"Caldwell city, Idaho",497,3147
+"Port Orange city, Florida",68,546
+"Moore city, Oklahoma",195,-41
+"Coon Rapids city, Minnesota",-70,-205
+"Lakewood city, Washington",-47,-288
+"Eden Prairie city, Minnesota",-40,-1174
+"Hamilton city, Ohio",-25,-414
+"Apex town, North Carolina",1148,2966
+"Bossier City city, Louisiana",-69,212
+"Porterville city, California",12,123
+"Maricopa city, Arizona",691,3587
+"La Habra city, California",-60,-531
+"Taylor city, Michigan",-132,-679
+"Dearborn Heights city, Michigan",-137,-669
+"Council Bluffs city, Iowa",-76,-210
+"Hendersonville city, Tennessee",284,217
+"Springfield city, Oregon",-65,-39
+"Medford city, Massachusetts",763,1673
+"St. Cloud city, Florida",431,2639
+"Santa Cruz city, California",-90,-301
+"Richland city, Washington",260,1131
+"Huntersville town, North Carolina",171,265
+"Encinitas city, California",-45,-275
+"Marietta city, Georgia",-29,557
+"Wellington village, Florida",-75,-331
+"Woodland city, California",65,481
+"Montebello city, California",-244,-1323
+"Vineland city, New Jersey",-103,-46
+"Chapel Hill town, North Carolina",-54,-144
+"Pontiac city, Michigan",-182,-406
+"Jupiter town, Florida",-52,-246
+"San Rafael city, California",-133,-385
+"Pico Rivera city, California",-220,-1231
+"La Mesa city, California",-80,-390
+"Sanford city, Florida",-35,-79
+"Bristol city, Connecticut",-118,-4
+"Meriden city, Connecticut",-156,-186
+"Euless city, Texas",16,-605
+"Great Falls city, Montana",-86,-17
+"Parker town, Colorado",323,1513
+"Youngstown city, Ohio",-176,-328
+"Owensboro city, Kentucky",-22,-172
+"Corvallis city, Oregon",1,167
+"Stonecrest city, Georgia",33,682
+"Santee city, California",-18,-354
+"Gardena city, California",-177,-1190
+"Kokomo city, Indiana",-3,85
+"Monterey Park city, California",-247,-1345
+"Taunton city, Massachusetts",69,172
+"White Plains city, New York",9,-38
+"West Allis city, Wisconsin",-107,-739
+"Des Plaines city, Illinois",-170,-1052
+"Palm Beach Gardens city, Florida",35,196
+"Blue Springs city, Missouri",126,656
+"Petaluma city, California",-35,-275
+"Wylie city, Texas",328,1464
+"Taylorsville city, Utah",-103,-1207
+"North Miami city, Florida",-285,-736
+"Dubuque city, Iowa",-74,-446
+"Revere city, Massachusetts",-313,-2490
+"Carson City, Nevada",38,316
+"Burlington city, North Carolina",247,1225
+"Grand Forks city, North Dakota",-80,-161
+"Springfield city, Ohio",-139,-38
+"Hempstead village, New York",-113,-266
+"Hoboken city, New Jersey",-85,-1900
+"Casper city, Wyoming",170,-586
+"Cupertino city, California",-232,-1721
+"Terre Haute city, Indiana",-78,-18
+"Hanford city, California",74,490
+"Lenexa city, Kansas",76,887
+"Madison city, Alabama",265,968
+"Lake Havasu City city, Arizona",211,869
+"St. Clair Shores city, Michigan",-142,-551
+"Herriman city, Utah",1009,1877
+"Midwest City city, Oklahoma",7,-321
+"St. Peters city, Missouri",-47,451
+"Gilroy city, California",-176,-1392
+"Margate city, Florida",-145,-551
+"Royal Oak city, Michigan",-119,-145
+"Shoreline city, Washington",167,-781
+"Orland Park village, Illinois",-147,-651
+"Decatur city, Alabama",-74,27
+"Casa Grande city, Arizona",444,3364
+"Weymouth Town city, Massachusetts",55,102
+"Bowie city, Maryland",-84,-582
+"Lancaster city, Pennsylvania",-130,-209
+"Kettering city, Ohio",-95,-271
+"Bartlett city, Tennessee",-80,-393
+"Highland city, California",-13,89
+"Coconut Creek city, Florida",-150,-551
+"Pocatello city, Idaho",44,810
+"Oak Lawn village, Illinois",-182,-1076
+"Albany city, Oregon",187,229
+"Bentonville city, Arkansas",555,2059
+"Fountain Valley city, California",-121,-559
+"Olympia city, Washington",191,293
+"National City city, California",-86,-237
+"Bradenton city, Florida",74,408
+"Coeur d'Alene city, Idaho",255,1134
+"Berwyn city, Illinois",-207,-1141
+"Tigard city, Oregon",163,772
+"DeSoto city, Texas",-81,-345
+"Port Arthur city, Texas",-60,174
+"New Brunswick city, New Jersey",40,225
+"Smyrna city, Georgia",-54,50
+"Apple Valley city, Minnesota",-111,-497
+"Kingsport city, Tennessee",-78,216
+"Valdosta city, Georgia",-17,99
+"Mount Prospect village, Illinois",-123,-1085
+"Smyrna town, Tennessee",378,2002
+"Apopka city, Florida",-23,622
+"Southaven city, Mississippi",134,655
+"Brookhaven city, Georgia",-24,247
+"Arcadia city, California",-225,-1167
+"West Haven city, Connecticut",-105,-161
+"Perth Amboy city, New Jersey",-25,-98
+"San Jacinto city, California",140,1204
+"Beaumont city, California",448,1731
+"Chicopee city, Massachusetts",-95,-291
+"Plainfield city, New Jersey",-191,518
+"Bonita Springs city, Florida",186,898
+"Marana town, Arizona",738,2137
+"Tinley Park village, Illinois",-152,-906
+"Anderson city, Indiana",-76,148
+"Sarasota city, Florida",47,609
+"Manhattan city, Kansas",37,219
+"Yucaipa city, California",-15,134
+"Bozeman city, Montana",264,1420
+"Lacey city, Washington",386,633
+"Kannapolis city, North Carolina",286,1015
+"Logan city, Utah",-8,1771
+"Colton city, California",30,310
+"Texas City city, Texas",361,1988
+"Kentwood city, Michigan",-70,-164
+"Peabody city, Massachusetts",-76,-291
+"Rocky Mount city, North Carolina",-103,-291
+"Elkhart city, Indiana",-93,-2
+"Diamond Bar city, California",-200,-1169
+"Pensacola city, Florida",-35,-681
+"Huntington Park city, California",-199,-1162
+"West Sacramento city, California",-35,6
+"Normal town, Illinois",-10,19
+"Spring Hill city, Tennessee",574,2744
+"Edina city, Minnesota",-133,-112
+"Minnetonka city, Minnesota",279,-975
+"Oak Park village, Illinois",-168,-1094
+"Galveston city, Texas",-65,-301
+"Twin Falls city, Idaho",223,1397
+"Pinellas Park city, Florida",243,-157
+"Wheaton city, Illinois",-125,-467
+"Elyria city, Ohio",-8,86
+"Methuen Town city, Massachusetts",-27,-201
+"Winter Haven city, Florida",356,2107
+"Novato city, California",-124,-298
+"Paramount city, California",-197,-1125
+"Battle Creek city, Michigan",-90,-206
+"Grand Island city, Nebraska",-139,-609
+"West New York town, New Jersey",-305,-251
+"Cathedral City city, California",42,643
+"La Crosse city, Wisconsin",-43,-462
+"Delano city, California",19,309
+"Watsonville city, California",-116,-556
+"Florissant city, Missouri",-103,-442
+"Joplin city, Missouri",-16,143
+"Aliso Viejo city, California",-1,-349
+"Kyle city, Texas",712,5325
+"Draper city, Utah",-29,1268
+"Burleson city, Texas",325,3486
+"Mooresville town, North Carolina",247,1142
+"Glendora city, California",-105,-936
+"Palm Desert city, California",4,374
+"Harrisonburg city, Virginia",-139,-245
+"Hoffman Estates village, Illinois",-127,-983
+"Collierville town, Tennessee",49,96
+"Placentia city, California",-122,-515
+"Summerville town, South Carolina",77,206
+"Mishawaka city, Indiana",-75,-52
+"Burien city, Washington",-117,-931
+"Little Elm city, Texas",717,3964
+"Middletown city, Ohio",-7,-28
+"Dunwoody city, Georgia",-90,-638
+"Grapevine city, Texas",105,116
+"Cuyahoga Falls city, Ohio",-95,-204
+"Lincoln city, California",47,794
+"Westfield city, Indiana",563,3640
+"Columbus city, Indiana",-32,178
+"Enid city, Oklahoma",-178,-583
+"Milford city (balance), Connecticut",-55,9
+"Covina city, California",-127,-835
+"Troy city, New York",-76,-290
+"Newark city, Ohio",39,431
+"Jeffersonville city, Indiana",81,821
+"Rosemead city, California",-130,-893
+"Harrisburg city, Pennsylvania",-21,66
+"Lakewood city, Ohio",-155,-589
+"Sheboygan city, Wisconsin",-72,-14
+"Cypress city, California",-3,-340
+"Murray city, Utah",-154,-860
+"Chesterfield city, Missouri",-58,-253
+"Downers Grove village, Illinois",-104,-472
+"St. Louis Park city, Minnesota",4,-862
