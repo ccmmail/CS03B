@@ -65,10 +65,7 @@ class Population:
     def export_csv(self, filename:str) -> None:
         """Create CSV file with location, annual, and biannual deltas."""
         header = ["Geographic Area", "Bi-Annual Delta", "Annual Delta"]
-        data_rows = []
-        for key in self.biannual:
-            data_row = [key, self.biannual[key], self.annual[key]]
-            data_rows.append(data_row)
+        data_rows = [[key, self.biannual[key], self.annual[key]] for key in self.biannual]
         with open(filename, "w") as csv_delta_file:
             csv_writer = csv.writer(csv_delta_file)
             csv_writer.writerow(header)
